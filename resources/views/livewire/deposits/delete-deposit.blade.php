@@ -10,7 +10,7 @@
         </div>
         <div class="modal-body">
           <form wire:submit="destroy">
-            <p>Data tersebut akan dihapus!</p>
+            <p>Data tersebut akan dihapus lho!</p>
 
             <div class="modal-footer">
               <button wire:loading.attr="disabled" type="button" class="btn btn-primary"
